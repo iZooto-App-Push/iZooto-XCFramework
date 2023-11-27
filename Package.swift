@@ -16,6 +16,6 @@ import PackageDescription
                 targets: ["iZootoiOSSDK"]),
         ],
         targets: [
-            .binaryTarget(name: "iZootoiOSSDK", url: "https://github.com/iZooto-App-Push/iZootoiOSSDK/releases/download/2.1.9/iZootoiOSFramework.xcframework.zip", checksum: "c39c713386afb3012a1535606e3235f93e76acca7de315281a6688ec7487fa80")
+            .binaryTarget(name: "iZootoiOSSDK", url: "https://github.com/iZooto-App-Push/iZootoiOSSDK/releases/download/2.2.0/iZootoiOSFramework.xcframework.zip", checksum: "ebbc24df0fc80d4d44903b1255da344128786bc45a1896907442d0b2a4af74eb")
         ]
     )
