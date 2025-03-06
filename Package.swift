@@ -1,4 +1,4 @@
-// swift-tools-version: 5.4
+// swift-tools-version: 5.3
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -16,6 +16,6 @@ import PackageDescription
                 targets: ["iZootoiOSSDK"]),
         ],
         targets: [
-            .binaryTarget(name: "iZootoiOSSDK", url: "https://github.com/iZooto-App-Push/iZootoiOSSDK/releases/download/2.3.5/iZootoiOSFramework.xcframework.zip", checksum: "e0b8607e4410a369d9f03f126b75b9ff77a1bd4f9030b82819f17578ab62751d")
+            .binaryTarget(name: "iZootoiOSSDK", url: "https://github.com/iZooto-App-Push/iZootoiOSSDK/releases/download/2.4.1/iZootoiOSFramework.xcframework.zip", checksum: "41707f170ca0286ce07365d2b7bfda5fe8551be4c04eaea2876bd9eed2ba7e8f")
         ]
     )
