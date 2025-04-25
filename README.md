@@ -24,6 +24,10 @@ Please refer to this repository's [release tags](https://github.com/izooto-mobil
 
 Please visit [izooto.com](https://www.izooto.com) or write to [support@izooto.com](mailto:support@izooto.com) for any kind of issues.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 #### Demo Project
 
 For reference, we have uploaded a demo project with the latest SDK in the <code>master</code> folder of this repository.
