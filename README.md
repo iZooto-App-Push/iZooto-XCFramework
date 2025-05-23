@@ -3,7 +3,7 @@
 </p>
 
 ### iZooto iOS SDK
-[![CocoaPods](https://img.shields.io/cocoapods/v/iZootoiOSSDK.svg)](https://cocoapods.org/pods/iZootoiOSSDK)[![SwiftPM Compatible](https://img.shields.io/badge/SwiftPM-Compatible-brightgreen.svg)](https://goo.gl/E01ufX)
+[![CocoaPods](https://img.shields.io/cocoapods/v/iZootoiOSSDK.svg)](https://cocoapods.org/pods/iZootoiOSSDK)[![SwiftPM Compatible](https://img.shields.io/badge/SwiftPM-Compatible-brightgreen.svg)](https://swiftpackageindex.com/iZooto-App-Push/iZooto-XCFramework#releases)
 
 
 [iZooto](https://www.izooto.com) provides push notification service for mobile apps. This plugin makes it easy to implement push notifications on your iOS app built on the Native framework.
@@ -23,6 +23,10 @@ Please refer to this repository's [release tags](https://github.com/izooto-mobil
 #### Support
 
 Please visit [izooto.com](https://www.izooto.com) or write to [support@izooto.com](mailto:support@izooto.com) for any kind of issues.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 #### Demo Project
 
